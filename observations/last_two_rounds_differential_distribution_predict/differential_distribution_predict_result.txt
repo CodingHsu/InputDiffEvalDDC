@@ -1,0 +1,363 @@
+speck3264 reduce to 5 rounds, backward 2 rounds differential predict experiments
+
+experiment 0:
+Best validation accuracy:  0.9262971878051758
+eval_for_diff: 
+Test accuracy: 42.02%
+Number of samples with 0 bit(s) difference: 420243
+Number of samples with 1 bit(s) difference: 69380
+Number of samples with 2 bit(s) difference: 167070
+Number of samples with 3 bit(s) difference: 64378
+Number of samples with 4 bit(s) difference: 86848
+Number of samples with 5 bit(s) difference: 49521
+Number of samples with 6 bit(s) difference: 44914
+Number of samples with 7 bit(s) difference: 27863
+Number of samples with 8 bit(s) difference: 21826
+Number of samples with 9 bit(s) difference: 14150
+Number of samples with 10 bit(s) difference: 10433
+Number of samples with 11 bit(s) difference: 7220
+Number of samples with 12 bit(s) difference: 5238
+eval_for_truncate_diff: 
+Test accuracy: 93.38%
+Number of samples with 0 bit(s) difference: 933839
+Number of samples with 1 bit(s) difference: 16739
+Number of samples with 2 bit(s) difference: 19609
+Number of samples with 3 bit(s) difference: 7466
+Number of samples with 4 bit(s) difference: 7254
+Number of samples with 5 bit(s) difference: 6337
+Number of samples with 6 bit(s) difference: 5183
+Number of samples with 7 bit(s) difference: 2374
+Number of samples with 8 bit(s) difference: 1113
+Number of samples with 9 bit(s) difference: 74
+Number of samples with 10 bit(s) difference: 12
+Number of samples with 11 bit(s) difference: 0
+Number of samples with 12 bit(s) difference: 0
+
+experiment 1:
+Best validation accuracy:  0.9262704253196716
+eval_for_diff: 
+Test accuracy: 41.94%
+Number of samples with 0 bit(s) difference: 419425
+Number of samples with 1 bit(s) difference: 67735
+Number of samples with 2 bit(s) difference: 167630
+Number of samples with 3 bit(s) difference: 64534
+Number of samples with 4 bit(s) difference: 86880
+Number of samples with 5 bit(s) difference: 50333
+Number of samples with 6 bit(s) difference: 45426
+Number of samples with 7 bit(s) difference: 28601
+Number of samples with 8 bit(s) difference: 22299
+Number of samples with 9 bit(s) difference: 14398
+Number of samples with 10 bit(s) difference: 10370
+Number of samples with 11 bit(s) difference: 7011
+Number of samples with 12 bit(s) difference: 5152
+eval_for_truncate_diff: 
+Test accuracy: 93.58%
+Number of samples with 0 bit(s) difference: 935805
+Number of samples with 1 bit(s) difference: 17599
+Number of samples with 2 bit(s) difference: 17490
+Number of samples with 3 bit(s) difference: 7369
+Number of samples with 4 bit(s) difference: 7141
+Number of samples with 5 bit(s) difference: 6336
+Number of samples with 6 bit(s) difference: 5071
+Number of samples with 7 bit(s) difference: 1999
+Number of samples with 8 bit(s) difference: 1116
+Number of samples with 9 bit(s) difference: 57
+Number of samples with 10 bit(s) difference: 17
+Number of samples with 11 bit(s) difference: 0
+Number of samples with 12 bit(s) difference: 0
+
+experiment 2:
+Best validation accuracy:  0.9265403747558594
+eval_for_diff: 
+Test accuracy: 42.12%
+Number of samples with 0 bit(s) difference: 421177
+Number of samples with 1 bit(s) difference: 69003
+Number of samples with 2 bit(s) difference: 169239
+Number of samples with 3 bit(s) difference: 64651
+Number of samples with 4 bit(s) difference: 86343
+Number of samples with 5 bit(s) difference: 49261
+Number of samples with 6 bit(s) difference: 44470
+Number of samples with 7 bit(s) difference: 27987
+Number of samples with 8 bit(s) difference: 21805
+Number of samples with 9 bit(s) difference: 13997
+Number of samples with 10 bit(s) difference: 10246
+Number of samples with 11 bit(s) difference: 6731
+Number of samples with 12 bit(s) difference: 4997
+eval_for_truncate_diff: 
+Test accuracy: 93.54%
+Number of samples with 0 bit(s) difference: 935427
+Number of samples with 1 bit(s) difference: 17877
+Number of samples with 2 bit(s) difference: 17738
+Number of samples with 3 bit(s) difference: 7491
+Number of samples with 4 bit(s) difference: 7271
+Number of samples with 5 bit(s) difference: 6193
+Number of samples with 6 bit(s) difference: 4853
+Number of samples with 7 bit(s) difference: 2006
+Number of samples with 8 bit(s) difference: 1076
+Number of samples with 9 bit(s) difference: 58
+Number of samples with 10 bit(s) difference: 10
+Number of samples with 11 bit(s) difference: 0
+Number of samples with 12 bit(s) difference: 0
+
+experiment 3:
+Best validation accuracy:  0.9270798563957214
+eval_for_diff: 
+Test accuracy: 42.80%
+Number of samples with 0 bit(s) difference: 427999
+Number of samples with 1 bit(s) difference: 67016
+Number of samples with 2 bit(s) difference: 166469
+Number of samples with 3 bit(s) difference: 63088
+Number of samples with 4 bit(s) difference: 85504
+Number of samples with 5 bit(s) difference: 49101
+Number of samples with 6 bit(s) difference: 44150
+Number of samples with 7 bit(s) difference: 27780
+Number of samples with 8 bit(s) difference: 21581
+Number of samples with 9 bit(s) difference: 14174
+Number of samples with 10 bit(s) difference: 10237
+Number of samples with 11 bit(s) difference: 7068
+Number of samples with 12 bit(s) difference: 5222
+eval_for_truncate_diff: 
+Test accuracy: 93.71%
+Number of samples with 0 bit(s) difference: 937058
+Number of samples with 1 bit(s) difference: 16943
+Number of samples with 2 bit(s) difference: 16996
+Number of samples with 3 bit(s) difference: 6882
+Number of samples with 4 bit(s) difference: 6979
+Number of samples with 5 bit(s) difference: 6554
+Number of samples with 6 bit(s) difference: 5123
+Number of samples with 7 bit(s) difference: 2356
+Number of samples with 8 bit(s) difference: 1035
+Number of samples with 9 bit(s) difference: 65
+Number of samples with 10 bit(s) difference: 9
+Number of samples with 11 bit(s) difference: 0
+Number of samples with 12 bit(s) difference: 0
+
+experiment 4:
+Best validation accuracy:  0.9266659021377563
+eval_for_diff: 
+Test accuracy: 42.31%
+Number of samples with 0 bit(s) difference: 423123
+Number of samples with 1 bit(s) difference: 66683
+Number of samples with 2 bit(s) difference: 167006
+Number of samples with 3 bit(s) difference: 63922
+Number of samples with 4 bit(s) difference: 87793
+Number of samples with 5 bit(s) difference: 50090
+Number of samples with 6 bit(s) difference: 44931
+Number of samples with 7 bit(s) difference: 28074
+Number of samples with 8 bit(s) difference: 21891
+Number of samples with 9 bit(s) difference: 14161
+Number of samples with 10 bit(s) difference: 10351
+Number of samples with 11 bit(s) difference: 7020
+Number of samples with 12 bit(s) difference: 4996
+eval_for_truncate_diff: 
+Test accuracy: 93.72%
+Number of samples with 0 bit(s) difference: 937179
+Number of samples with 1 bit(s) difference: 17304
+Number of samples with 2 bit(s) difference: 17211
+Number of samples with 3 bit(s) difference: 6973
+Number of samples with 4 bit(s) difference: 6927
+Number of samples with 5 bit(s) difference: 6270
+Number of samples with 6 bit(s) difference: 4806
+Number of samples with 7 bit(s) difference: 2176
+Number of samples with 8 bit(s) difference: 1093
+Number of samples with 9 bit(s) difference: 53
+Number of samples with 10 bit(s) difference: 8
+Number of samples with 11 bit(s) difference: 0
+Number of samples with 12 bit(s) difference: 0
+
+experiment 5:
+Best validation accuracy:  0.9263033866882324
+eval_for_diff: 
+Test accuracy: 42.01%
+Number of samples with 0 bit(s) difference: 420089
+Number of samples with 1 bit(s) difference: 67874
+Number of samples with 2 bit(s) difference: 168324
+Number of samples with 3 bit(s) difference: 64560
+Number of samples with 4 bit(s) difference: 87801
+Number of samples with 5 bit(s) difference: 50097
+Number of samples with 6 bit(s) difference: 45308
+Number of samples with 7 bit(s) difference: 28092
+Number of samples with 8 bit(s) difference: 21599
+Number of samples with 9 bit(s) difference: 14108
+Number of samples with 10 bit(s) difference: 10327
+Number of samples with 11 bit(s) difference: 6846
+Number of samples with 12 bit(s) difference: 4946
+eval_for_truncate_diff: 
+Test accuracy: 93.60%
+Number of samples with 0 bit(s) difference: 936026
+Number of samples with 1 bit(s) difference: 17667
+Number of samples with 2 bit(s) difference: 17583
+Number of samples with 3 bit(s) difference: 7272
+Number of samples with 4 bit(s) difference: 7232
+Number of samples with 5 bit(s) difference: 6271
+Number of samples with 6 bit(s) difference: 4792
+Number of samples with 7 bit(s) difference: 2068
+Number of samples with 8 bit(s) difference: 1042
+Number of samples with 9 bit(s) difference: 42
+Number of samples with 10 bit(s) difference: 5
+Number of samples with 11 bit(s) difference: 0
+Number of samples with 12 bit(s) difference: 0
+
+experiment 6:
+Best validation accuracy:  0.9258817434310913
+eval_for_diff: 
+Test accuracy: 41.72%
+Number of samples with 0 bit(s) difference: 417198
+Number of samples with 1 bit(s) difference: 67859
+Number of samples with 2 bit(s) difference: 168301
+Number of samples with 3 bit(s) difference: 65105
+Number of samples with 4 bit(s) difference: 88531
+Number of samples with 5 bit(s) difference: 50223
+Number of samples with 6 bit(s) difference: 45133
+Number of samples with 7 bit(s) difference: 28562
+Number of samples with 8 bit(s) difference: 21765
+Number of samples with 9 bit(s) difference: 14468
+Number of samples with 10 bit(s) difference: 10390
+Number of samples with 11 bit(s) difference: 7019
+Number of samples with 12 bit(s) difference: 5111
+eval_for_truncate_diff: 
+Test accuracy: 93.58%
+Number of samples with 0 bit(s) difference: 935837
+Number of samples with 1 bit(s) difference: 17922
+Number of samples with 2 bit(s) difference: 17671
+Number of samples with 3 bit(s) difference: 7264
+Number of samples with 4 bit(s) difference: 7107
+Number of samples with 5 bit(s) difference: 6069
+Number of samples with 6 bit(s) difference: 4895
+Number of samples with 7 bit(s) difference: 2113
+Number of samples with 8 bit(s) difference: 1060
+Number of samples with 9 bit(s) difference: 55
+Number of samples with 10 bit(s) difference: 7
+Number of samples with 11 bit(s) difference: 0
+Number of samples with 12 bit(s) difference: 0
+
+experimnet 7:
+Best validation accuracy:  0.9263778924942017
+eval_for_diff: 
+Test accuracy: 41.51%
+Number of samples with 0 bit(s) difference: 415147
+Number of samples with 1 bit(s) difference: 69765
+Number of samples with 2 bit(s) difference: 169697
+Number of samples with 3 bit(s) difference: 66791
+Number of samples with 4 bit(s) difference: 87729
+Number of samples with 5 bit(s) difference: 50518
+Number of samples with 6 bit(s) difference: 44552
+Number of samples with 7 bit(s) difference: 28271
+Number of samples with 8 bit(s) difference: 21638
+Number of samples with 9 bit(s) difference: 13998
+Number of samples with 10 bit(s) difference: 10117
+Number of samples with 11 bit(s) difference: 6890
+Number of samples with 12 bit(s) difference: 4941
+eval_for_truncate_diff: 
+Test accuracy: 93.65%
+Number of samples with 0 bit(s) difference: 936524
+Number of samples with 1 bit(s) difference: 17180
+Number of samples with 2 bit(s) difference: 17408
+Number of samples with 3 bit(s) difference: 7067
+Number of samples with 4 bit(s) difference: 7228
+Number of samples with 5 bit(s) difference: 6446
+Number of samples with 6 bit(s) difference: 4891
+Number of samples with 7 bit(s) difference: 2079
+Number of samples with 8 bit(s) difference: 1108
+Number of samples with 9 bit(s) difference: 64
+Number of samples with 10 bit(s) difference: 5
+Number of samples with 11 bit(s) difference: 0
+Number of samples with 12 bit(s) difference: 0
+
+experiment 8:
+Best validation accuracy:  0.925913393497467
+eval_for_diff: 
+Test accuracy: 42.02%
+Number of samples with 0 bit(s) difference: 420157
+Number of samples with 1 bit(s) difference: 67847
+Number of samples with 2 bit(s) difference: 168280
+Number of samples with 3 bit(s) difference: 63970
+Number of samples with 4 bit(s) difference: 87016
+Number of samples with 5 bit(s) difference: 50053
+Number of samples with 6 bit(s) difference: 44574
+Number of samples with 7 bit(s) difference: 28315
+Number of samples with 8 bit(s) difference: 21705
+Number of samples with 9 bit(s) difference: 14612
+Number of samples with 10 bit(s) difference: 10409
+Number of samples with 11 bit(s) difference: 7172
+Number of samples with 12 bit(s) difference: 5122
+eval_for_truncate_diff: 
+Test accuracy: 93.61%
+Number of samples with 0 bit(s) difference: 936139
+Number of samples with 1 bit(s) difference: 17987
+Number of samples with 2 bit(s) difference: 16674
+Number of samples with 3 bit(s) difference: 7269
+Number of samples with 4 bit(s) difference: 7100
+Number of samples with 5 bit(s) difference: 6552
+Number of samples with 6 bit(s) difference: 4983
+Number of samples with 7 bit(s) difference: 2101
+Number of samples with 8 bit(s) difference: 1141
+Number of samples with 9 bit(s) difference: 50
+Number of samples with 10 bit(s) difference: 4
+Number of samples with 11 bit(s) difference: 0
+Number of samples with 12 bit(s) difference: 0
+
+experiment 9:
+Best validation accuracy:  0.9256570339202881
+eval_for_diff: 
+Test accuracy: 41.81%
+Number of samples with 0 bit(s) difference: 418085
+Number of samples with 1 bit(s) difference: 68122
+Number of samples with 2 bit(s) difference: 167333
+Number of samples with 3 bit(s) difference: 64426
+Number of samples with 4 bit(s) difference: 87580
+Number of samples with 5 bit(s) difference: 50588
+Number of samples with 6 bit(s) difference: 44479
+Number of samples with 7 bit(s) difference: 28492
+Number of samples with 8 bit(s) difference: 22340
+Number of samples with 9 bit(s) difference: 14525
+Number of samples with 10 bit(s) difference: 10500
+Number of samples with 11 bit(s) difference: 7249
+Number of samples with 12 bit(s) difference: 5173
+eval_for_truncate_diff: 
+Test accuracy: 93.72%
+Number of samples with 0 bit(s) difference: 937205
+Number of samples with 1 bit(s) difference: 16989
+Number of samples with 2 bit(s) difference: 17094
+Number of samples with 3 bit(s) difference: 6977
+Number of samples with 4 bit(s) difference: 7076
+Number of samples with 5 bit(s) difference: 6394
+Number of samples with 6 bit(s) difference: 4965
+Number of samples with 7 bit(s) difference: 2115
+Number of samples with 8 bit(s) difference: 1133
+Number of samples with 9 bit(s) difference: 41
+Number of samples with 10 bit(s) difference: 11
+Number of samples with 11 bit(s) difference: 0
+Number of samples with 12 bit(s) difference: 0
+
+avg:
+avg_eval_for_diff: 
+Test avg accuracy: 42.03%
+Avg number of samples with 0 bit(s) difference: 420264.3
+Avg number of samples with 1 bit(s) difference: 68128.4
+Avg number of samples with 2 bit(s) difference: 167934.9
+Avg number of samples with 3 bit(s) difference: 64542.5
+Avg number of samples with 4 bit(s) difference: 87202.5
+Avg number of samples with 5 bit(s) difference: 49978.5
+Avg number of samples with 6 bit(s) difference: 44793.7
+Avg number of samples with 7 bit(s) difference: 28203.7
+Avg number of samples with 8 bit(s) difference: 21844.9
+Avg number of samples with 9 bit(s) difference: 14259.1
+Avg number of samples with 10 bit(s) difference: 10338
+Avg number of samples with 11 bit(s) difference: 7022.6
+Avg number of samples with 12 bit(s) difference: 5089.8
+avg_eval_for_truncate_diff: 
+Test avg accuracy: 93.609%
+Avg number of samples with 0 bit(s) difference: 936103.9
+Avg number of samples with 1 bit(s) difference: 17420.7
+Avg number of samples with 2 bit(s) difference: 17547.4
+Avg number of samples with 3 bit(s) difference: 7203
+Avg number of samples with 4 bit(s) difference: 7131.5
+Avg number of samples with 5 bit(s) difference: 6342.2
+Avg number of samples with 6 bit(s) difference: 4956.2
+Avg number of samples with 7 bit(s) difference: 2138.7
+Avg number of samples with 8 bit(s) difference: 1091.7
+Avg number of samples with 9 bit(s) difference: 55.9
+Avg number of samples with 10 bit(s) difference: 8.8
+Avg number of samples with 11 bit(s) difference: 0
+Avg number of samples with 12 bit(s) difference: 0

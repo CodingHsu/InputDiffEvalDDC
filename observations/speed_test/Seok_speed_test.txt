@@ -1,0 +1,9 @@
+Explore SPECK-32/64 nr5 input difference...
+
+- Hamming weight: 1
+  * Elapsed time: 521.8515305519104 sec
+
+- Hamming weight: 2
+  * Elapsed time: 3241.024164199829 sec
+
+

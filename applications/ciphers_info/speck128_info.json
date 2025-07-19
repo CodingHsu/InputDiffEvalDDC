@@ -1,0 +1,1 @@
+{"data_type": "uint64", "plaintext_size": 128, "ciphertext_size": 128, "master_key_size": 256, "round_key_size": 64, "encrypt_rounds": 34, "cipher_name": "speck128", "original_filename": "speck128.dll", "upload_type": "dll", "saved_path": "..\\saved_dlls\\speck128.dll"}

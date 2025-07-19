@@ -1,0 +1,1 @@
+{"data_type": "uint8", "plaintext_size": 64, "ciphertext_size": 64, "master_key_size": 128, "round_key_size": 64, "encrypt_rounds": 28, "cipher_name": "gift64", "original_filename": "gift64.dll", "upload_type": "dll", "saved_path": "..\\saved_dlls\\gift64.dll"}

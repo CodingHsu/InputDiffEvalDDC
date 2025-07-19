@@ -1,0 +1,104 @@
+coarse_search 0x4008000004000000 occur =  3   mean_bias = 0.12471667  3sigma_bias = 0.00389415  acc = 0.550  ± 1.15×10^-3
+coarse_search 0x0010000100000060 occur =  3   mean_bias = 0.12386667  3sigma_bias = 0.00382007  acc = 0.541  ± 9.22×10^-4
+coarse_search 0x4000000000000000 occur =  3   mean_bias = 0.12236667  3sigma_bias = 0.00324643  acc = 0.500  ± 2.00×10^-3
+coarse_search 0x0020000800000400 occur =  3   mean_bias = 0.11887000  3sigma_bias = 0.00144125  acc = 0.551  ± 1.52×10^-3
+coarse_search 0x0400000000000000 occur =  3   mean_bias = 0.11773667  3sigma_bias = 0.00163117  acc = 0.500  ± 1.37×10^-3
+coarse_search 0x2000000000000000 occur =  3   mean_bias = 0.11770000  3sigma_bias = 0.00205648  acc = 0.500  ± 1.08×10^-3
+coarse_search 0x0000002000000000 occur =  3   mean_bias = 0.11763000  3sigma_bias = 0.00148553  acc = 0.500  ± 7.17×10^-4
+coarse_search 0x0000000200000000 occur =  3   mean_bias = 0.11482000  3sigma_bias = 0.00160689  acc = 0.500  ± 2.32×10^-3
+coarse_search 0x0000060000000000 occur =  3   mean_bias = 0.11474667  3sigma_bias = 0.00175861  acc = 0.500  ± 1.60×10^-3
+coarse_search 0x0200040100000020 occur =  3   mean_bias = 0.11460000  3sigma_bias = 0.00334012  acc = 0.540  ± 7.97×10^-4
+coarse_search 0x0000401006000000 occur =  3   mean_bias = 0.11334333  3sigma_bias = 0.00491802
+coarse_search 0x4000401002000000 occur =  3   mean_bias = 0.11232667  3sigma_bias = 0.00186805
+coarse_search 0x0000004000000000 occur =  3   mean_bias = 0.11195000  3sigma_bias = 0.00122192
+coarse_search 0x0000200000000000 occur =  3   mean_bias = 0.10982333  3sigma_bias = 0.00130847
+coarse_search 0x0060000000000000 occur =  3   mean_bias = 0.10944000  3sigma_bias = 0.00267185
+coarse_search 0x001a000000000000 occur =  3   mean_bias = 0.10875667  3sigma_bias = 0.00126083
+coarse_search 0x0000400000000000 occur =  3   mean_bias = 0.10801000  3sigma_bias = 0.00075180
+coarse_search 0x0000040000000000 occur =  3   mean_bias = 0.10745667  3sigma_bias = 0.00082777
+coarse_search 0x1000200800000400 occur =  3   mean_bias = 0.10744000  3sigma_bias = 0.00203846
+coarse_search 0x0000020000000000 occur =  3   mean_bias = 0.10714333  3sigma_bias = 0.00234640
+coarse_search 0x6000000000000000 occur =  3   mean_bias = 0.10629667  3sigma_bias = 0.00058043
+coarse_search 0x0001000400600000 occur =  3   mean_bias = 0.10629333  3sigma_bias = 0.00390246
+coarse_search 0x0040000000000000 occur =  3   mean_bias = 0.10511333  3sigma_bias = 0.00104111
+coarse_search 0x0004000000000000 occur =  3   mean_bias = 0.10502667  3sigma_bias = 0.00064156
+coarse_search 0x0000020240000000 occur =  3   mean_bias = 0.10477667  3sigma_bias = 0.00417694
+coarse_search 0x0000001a00000000 occur =  3   mean_bias = 0.10461000  3sigma_bias = 0.00451717
+coarse_search 0x0002082000000002 occur =  3   mean_bias = 0.10455000  3sigma_bias = 0.00282892
+coarse_search 0x0401000000600000 occur =  3   mean_bias = 0.10420667  3sigma_bias = 0.00364550
+coarse_search 0x0802080000000004 occur =  3   mean_bias = 0.10363667  3sigma_bias = 0.00474686
+coarse_search 0x0000040100000040 occur =  3   mean_bias = 0.10320000  3sigma_bias = 0.00089448
+coarse_search 0x8000004000020000 occur =  3   mean_bias = 0.10300000  3sigma_bias = 0.00377082
+coarse_search 0x0020200000000600 occur =  3   mean_bias = 0.10243000  3sigma_bias = 0.00441765
+coarse_search 0x0400010000200000 occur =  3   mean_bias = 0.10236333  3sigma_bias = 0.00438301
+coarse_search 0x0040100000020000 occur =  3   mean_bias = 0.10234000  3sigma_bias = 0.00217516
+coarse_search 0x0020000000000000 occur =  3   mean_bias = 0.10214333  3sigma_bias = 0.00216756
+coarse_search 0x1020200000000200 occur =  3   mean_bias = 0.10207667  3sigma_bias = 0.00492643
+coarse_search 0x1020000800000200 occur =  3   mean_bias = 0.10194333  3sigma_bias = 0.00349359
+coarse_search 0x0000820020000000 occur =  3   mean_bias = 0.10176333  3sigma_bias = 0.00206637
+coarse_search 0x0002000000000000 occur =  3   mean_bias = 0.10158000  3sigma_bias = 0.00147000
+coarse_search 0x0600000000000000 occur =  3   mean_bias = 0.10121000  3sigma_bias = 0.00165327
+coarse_search 0x0802002000000002 occur =  3   mean_bias = 0.10082667  3sigma_bias = 0.00261006
+coarse_search 0x0000006000000000 occur =  3   mean_bias = 0.10065333  3sigma_bias = 0.00261608
+coarse_search 0x0000000600000000 occur =  3   mean_bias = 0.10029667  3sigma_bias = 0.00216444
+coarse_search 0x0008400004000000 occur =  3   mean_bias = 0.10021333  3sigma_bias = 0.00207637
+coarse_search 0x0008001002000000 occur =  3   mean_bias = 0.10020000  3sigma_bias = 0.00433040
+coarse_search 0x0000800220000000 occur =  3   mean_bias = 0.10011000  3sigma_bias = 0.00548245
+coarse_search 0x0800002000000002 occur =  3   mean_bias = 0.10005000  3sigma_bias = 0.00379046
+coarse_search 0x0001010400200000 occur =  3   mean_bias = 0.09993667  3sigma_bias = 0.00506959
+coarse_search 0x0000600000000000 occur =  3   mean_bias = 0.09985000  3sigma_bias = 0.00072187
+coarse_search 0x0100008000006000 occur =  3   mean_bias = 0.09972000  3sigma_bias = 0.00171499
+coarse_search 0x4008400004000000 occur =  3   mean_bias = 0.09950667  3sigma_bias = 0.00006245
+coarse_search 0x0004008000002000 occur =  3   mean_bias = 0.09941333  3sigma_bias = 0.00358802
+coarse_search 0x0200000000000000 occur =  3   mean_bias = 0.09920333  3sigma_bias = 0.00126582
+coarse_search 0x0006000000000000 occur =  3   mean_bias = 0.09916333  3sigma_bias = 0.00139825
+coarse_search 0x0054000000000000 occur =  3   mean_bias = 0.09912333  3sigma_bias = 0.00272081
+coarse_search 0x0100008000004000 occur =  3   mean_bias = 0.09904000  3sigma_bias = 0.00316596
+coarse_search 0x0000200800000600 occur =  3   mean_bias = 0.09789000  3sigma_bias = 0.00169041
+coarse_search 0x0000005400000000 occur =  3   mean_bias = 0.09758667  3sigma_bias = 0.00314662
+coarse_search 0x0210040000000040 occur =  3   mean_bias = 0.09677000  3sigma_bias = 0.00231058
+coarse_search 0x0200000100000020 occur =  3   mean_bias = 0.09651000  3sigma_bias = 0.00242741
+coarse_search 0x1c00000000000000 occur =  3   mean_bias = 0.09644333  3sigma_bias = 0.00277955
+coarse_search 0x0000004c00000000 occur =  3   mean_bias = 0.09628333  3sigma_bias = 0.00242877
+coarse_search 0x0000034000000000 occur =  3   mean_bias = 0.09590000  3sigma_bias = 0.00328510
+coarse_search 0x0004008000004000 occur =  3   mean_bias = 0.09587333  3sigma_bias = 0.00102367
+coarse_search 0x0000004a00000000 occur =  3   mean_bias = 0.09545667  3sigma_bias = 0.00187933
+coarse_search 0x0004008000006000 occur =  3   mean_bias = 0.09509333  3sigma_bias = 0.00052849
+coarse_search 0x0000007400000000 occur =  3   mean_bias = 0.09493333  3sigma_bias = 0.00075974
+coarse_search 0x0000040100000020 occur =  3   mean_bias = 0.09478333  3sigma_bias = 0.00105399
+coarse_search 0x0000003a00000000 occur =  3   mean_bias = 0.09474333  3sigma_bias = 0.00240194
+coarse_search 0x0000001800000000 occur =  3   mean_bias = 0.09473333  3sigma_bias = 0.00064645
+coarse_search 0x4008000002000000 occur =  3   mean_bias = 0.09465333  3sigma_bias = 0.00399804
+coarse_search 0x0000054000000000 occur =  3   mean_bias = 0.09462667  3sigma_bias = 0.00164052
+coarse_search 0x1a00000000000000 occur =  3   mean_bias = 0.09446000  3sigma_bias = 0.00084481
+coarse_search 0x8000100000040000 occur =  3   mean_bias = 0.09439000  3sigma_bias = 0.00112929
+coarse_search 0x0802000000000002 occur =  3   mean_bias = 0.09437333  3sigma_bias = 0.00466790
+coarse_search 0x0001010400400000 occur =  3   mean_bias = 0.09413667  3sigma_bias = 0.00218183
+coarse_search 0x2000008000006000 occur =  3   mean_bias = 0.09411333  3sigma_bias = 0.00254016
+coarse_search 0x0000082000000006 occur =  3   mean_bias = 0.09402667  3sigma_bias = 0.00091995
+coarse_search 0x8000100000060000 occur =  3   mean_bias = 0.09389333  3sigma_bias = 0.00250645
+coarse_search 0x0401010000200000 occur =  3   mean_bias = 0.09375000  3sigma_bias = 0.00278144
+coarse_search 0x0000820220000000 occur =  3   mean_bias = 0.09327333  3sigma_bias = 0.00034117
+coarse_search 0x1020000000000200 occur =  3   mean_bias = 0.09321000  3sigma_bias = 0.00284937
+coarse_search 0x0080020240000000 occur =  3   mean_bias = 0.09317000  3sigma_bias = 0.00272588
+coarse_search 0x0080800060000000 occur =  3   mean_bias = 0.09297333  3sigma_bias = 0.00307487
+coarse_search 0x0340000000000000 occur =  3   mean_bias = 0.09272333  3sigma_bias = 0.00119147
+coarse_search 0x2004008000002000 occur =  3   mean_bias = 0.09262333  3sigma_bias = 0.00355387
+coarse_search 0x0034000000000000 occur =  3   mean_bias = 0.09262000  3sigma_bias = 0.00201268
+coarse_search 0x0400000400400000 occur =  2   mean_bias = 0.09197000  3sigma_bias = 0.00352139
+coarse_search 0x0800080000000004 occur =  2   mean_bias = 0.09162500  3sigma_bias = 0.00252437
+coarse_search 0x0104000000002000 occur =  3   mean_bias = 0.09138667  3sigma_bias = 0.00039950
+coarse_search 0x0080800220000000 occur =  3   mean_bias = 0.09132333  3sigma_bias = 0.00263340
+coarse_search 0x0000000400000000 occur =  3   mean_bias = 0.09130000  3sigma_bias = 0.00106532
+coarse_search 0x8000104000040000 occur =  3   mean_bias = 0.09105333  3sigma_bias = 0.00091995
+coarse_search 0x0002002000000006 occur =  2   mean_bias = 0.09102500  3sigma_bias = 0.00010607
+coarse_search 0x0210040000000020 occur =  3   mean_bias = 0.09102333  3sigma_bias = 0.00182343
+coarse_search 0x0360000000000000 occur =  2   mean_bias = 0.09079000  3sigma_bias = 0.00012728
+coarse_search 0x0080800040000000 occur =  1   mean_bias = 0.09075000  3sigma_bias = 0.00000000
+coarse_search 0x8040100000040000 occur =  3   mean_bias = 0.09074333  3sigma_bias = 0.00195215
+coarse_search 0x0000800240000000 occur =  1   mean_bias = 0.09068000  3sigma_bias = 0.00000000
+coarse_search 0x0000820040000000 occur =  3   mean_bias = 0.09065667  3sigma_bias = 0.00126048
+coarse_search 0x0040104000040000 occur =  2   mean_bias = 0.09065500  3sigma_bias = 0.00040305
+coarse_search 0x0000010400200000 occur =  2   mean_bias = 0.09061000  3sigma_bias = 0.00131522
+coarse_search 0x8040004000040000 occur =  2   mean_bias = 0.09040500  3sigma_bias = 0.00180312
+coarse_search 0x2000008000002000 occur =  2   mean_bias = 0.09036000  3sigma_bias = 0.00165463

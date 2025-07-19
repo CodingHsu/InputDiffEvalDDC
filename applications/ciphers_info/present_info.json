@@ -1,0 +1,1 @@
+{"data_type": "uint8", "plaintext_size": 64, "ciphertext_size": 64, "master_key_size": 80, "round_key_size": 64, "encrypt_rounds": 31, "cipher_name": "present", "original_filename": "present.dll", "upload_type": "dll", "saved_path": "..\\saved_dlls\\present.dll"}

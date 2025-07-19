@@ -1,0 +1,1 @@
+{"data_type": "uint16", "plaintext_size": 64, "ciphertext_size": 64, "master_key_size": 80, "round_key_size": 32, "encrypt_rounds": 32, "cipher_name": "lblock", "original_filename": "lblock.dll", "upload_type": "dll", "saved_path": "..\\saved_dlls\\lblock.dll"}

@@ -1,0 +1,105 @@
+coarse_search 0x0000020240000000 occur =  3   mean_ddc = 4.16964000  3sigma_ddc = 0.01558580  acc = 0.544  ± 8.77×10^-4
+coarse_search 0x4008000004000000 occur =  3   mean_ddc = 4.15942667  3sigma_ddc = 0.01108305  acc = 0.550  ± 1.15×10^-3
+coarse_search 0x0020000800000400 occur =  3   mean_ddc = 4.15419000  3sigma_ddc = 0.01066976  acc = 0.551  ± 1.52×10^-3
+coarse_search 0x0020200000000600 occur =  3   mean_ddc = 4.15130000  3sigma_ddc = 0.01037727  acc = 0.542  ± 8.38×10^-4
+coarse_search 0x0401000000600000 occur =  3   mean_ddc = 4.13917000  3sigma_ddc = 0.01170950  acc = 0.541  ± 1.08×10^-3
+coarse_search 0x0001000400600000 occur =  3   mean_ddc = 4.13656333  3sigma_ddc = 0.01173013  acc = 0.541  ± 2.10×10^-3
+coarse_search 0x0000040100000040 occur =  3   mean_ddc = 4.13383333  3sigma_ddc = 0.01593377  acc = 0.537  ± 1.18×10^-3
+coarse_search 0x0000401006000000 occur =  3   mean_ddc = 4.13318667  3sigma_ddc = 0.00868345  acc = 0.538  ± 1.15×10^-3
+coarse_search 0x0200040100000020 occur =  3   mean_ddc = 4.13281333  3sigma_ddc = 0.00319923  acc = 0.540  ± 7.97×10^-4
+coarse_search 0x0000200800000600 occur =  3   mean_ddc = 4.13141667  3sigma_ddc = 0.01683570  acc = 0.535  ± 1.69×10^-3
+coarse_search 0x0000820040000000 occur =  3   mean_ddc = 4.12657000  3sigma_ddc = 0.01571029
+coarse_search 0x0000820020000000 occur =  3   mean_ddc = 4.12590333  3sigma_ddc = 0.00793143
+coarse_search 0x0000800220000000 occur =  3   mean_ddc = 4.12588667  3sigma_ddc = 0.01151818
+coarse_search 0x0000800240000000 occur =  3   mean_ddc = 4.12585333  3sigma_ddc = 0.00827121
+coarse_search 0x0080020240000000 occur =  3   mean_ddc = 4.12405333  3sigma_ddc = 0.00576846
+coarse_search 0x0000082000000006 occur =  3   mean_ddc = 4.12368000  3sigma_ddc = 0.01855793
+coarse_search 0x0400000400400000 occur =  3   mean_ddc = 4.12231667  3sigma_ddc = 0.00880654
+coarse_search 0x1000200800000400 occur =  3   mean_ddc = 4.12185667  3sigma_ddc = 0.00127008
+coarse_search 0x0080800040000000 occur =  3   mean_ddc = 4.12170333  3sigma_ddc = 0.00546835
+coarse_search 0x0002002000000006 occur =  3   mean_ddc = 4.12091667  3sigma_ddc = 0.00477710
+coarse_search 0x0210040000000040 occur =  3   mean_ddc = 4.12066667  3sigma_ddc = 0.00775628
+coarse_search 0x0040100000020000 occur =  3   mean_ddc = 4.11761333  3sigma_ddc = 0.00259744
+coarse_search 0x0002082000000002 occur =  3   mean_ddc = 4.11669333  3sigma_ddc = 0.00380058
+coarse_search 0x0010000100000060 occur =  3   mean_ddc = 4.11651667  3sigma_ddc = 0.01247922
+coarse_search 0x8000004000020000 occur =  3   mean_ddc = 4.11598333  3sigma_ddc = 0.01070039
+coarse_search 0x4000401002000000 occur =  3   mean_ddc = 4.11420000  3sigma_ddc = 0.00604394
+coarse_search 0x0008400004000000 occur =  3   mean_ddc = 4.11273000  3sigma_ddc = 0.00528196
+coarse_search 0x1000200000000600 occur =  3   mean_ddc = 4.11170333  3sigma_ddc = 0.02021435
+coarse_search 0x0400010000200000 occur =  3   mean_ddc = 4.11149667  3sigma_ddc = 0.00191445
+coarse_search 0x0100008000004000 occur =  3   mean_ddc = 4.11032000  3sigma_ddc = 0.01184840
+coarse_search 0x0004008000004000 occur =  3   mean_ddc = 4.10999667  3sigma_ddc = 0.01021544
+coarse_search 0x1020000800000200 occur =  3   mean_ddc = 4.10961667  3sigma_ddc = 0.01563084
+coarse_search 0x1020200000000200 occur =  3   mean_ddc = 4.10893667  3sigma_ddc = 0.00727964
+coarse_search 0x0800002000000002 occur =  3   mean_ddc = 4.10848000  3sigma_ddc = 0.00841921
+coarse_search 0x0400010000600000 occur =  3   mean_ddc = 4.10808333  3sigma_ddc = 0.00629409
+coarse_search 0x0080800220000000 occur =  3   mean_ddc = 4.10782333  3sigma_ddc = 0.00517570
+coarse_search 0x0400000400600000 occur =  3   mean_ddc = 4.10671333  3sigma_ddc = 0.00062522
+coarse_search 0x0200040000000040 occur =  3   mean_ddc = 4.10664667  3sigma_ddc = 0.01641097
+coarse_search 0x0000040100000020 occur =  3   mean_ddc = 4.10657667  3sigma_ddc = 0.01153734
+coarse_search 0x0001010400400000 occur =  3   mean_ddc = 4.10651000  3sigma_ddc = 0.00036373
+coarse_search 0x0080000240000000 occur =  3   mean_ddc = 4.10628000  3sigma_ddc = 0.01171572
+coarse_search 0x0200000100000020 occur =  3   mean_ddc = 4.10526000  3sigma_ddc = 0.01174794
+coarse_search 0x0210040000000020 occur =  3   mean_ddc = 4.10451667  3sigma_ddc = 0.00083211
+coarse_search 0x0200040000000020 occur =  3   mean_ddc = 4.10424333  3sigma_ddc = 0.01157745
+coarse_search 0x4000401004000000 occur =  3   mean_ddc = 4.10404000  3sigma_ddc = 0.00783936
+coarse_search 0x0000020260000000 occur =  3   mean_ddc = 4.10328667  3sigma_ddc = 0.00654525
+coarse_search 0x0020200000000200 occur =  3   mean_ddc = 4.10249333  3sigma_ddc = 0.00451262
+coarse_search 0x0004008000002000 occur =  3   mean_ddc = 4.10211667  3sigma_ddc = 0.01143446
+coarse_search 0x0001010400200000 occur =  3   mean_ddc = 4.10207667  3sigma_ddc = 0.00157788
+coarse_search 0x0104000000004000 occur =  3   mean_ddc = 4.10042667  3sigma_ddc = 0.00302157
+coarse_search 0x2000008000006000 occur =  3   mean_ddc = 4.09971000  3sigma_ddc = 0.00289698
+coarse_search 0x0004008000006000 occur =  3   mean_ddc = 4.09901667  3sigma_ddc = 0.00864840
+coarse_search 0x0040004000040000 occur =  3   mean_ddc = 4.09900667  3sigma_ddc = 0.00153098
+coarse_search 0x8000100000060000 occur =  3   mean_ddc = 4.09872333  3sigma_ddc = 0.00282484
+coarse_search 0x1020000000000200 occur =  3   mean_ddc = 4.09865667  3sigma_ddc = 0.00950874
+coarse_search 0x0040004000060000 occur =  3   mean_ddc = 4.09856333  3sigma_ddc = 0.00411036
+coarse_search 0x8040100000040000 occur =  3   mean_ddc = 4.09851000  3sigma_ddc = 0.00597994
+coarse_search 0x0001010000400000 occur =  3   mean_ddc = 4.09812333  3sigma_ddc = 0.00367917
+coarse_search 0x4008000002000000 occur =  3   mean_ddc = 4.09807667  3sigma_ddc = 0.00700674
+coarse_search 0x0020000800000200 occur =  3   mean_ddc = 4.09807333  3sigma_ddc = 0.00538141
+coarse_search 0x0802000000000002 occur =  3   mean_ddc = 4.09790333  3sigma_ddc = 0.00401601
+coarse_search 0x0100008000006000 occur =  3   mean_ddc = 4.09788000  3sigma_ddc = 0.00207217
+coarse_search 0x0000820220000000 occur =  3   mean_ddc = 4.09775667  3sigma_ddc = 0.00306490
+coarse_search 0x8000100000040000 occur =  3   mean_ddc = 4.09770667  3sigma_ddc = 0.00210007
+coarse_search 0x8040000000020000 occur =  3   mean_ddc = 4.09740333  3sigma_ddc = 0.00581608
+coarse_search 0x0400010000400000 occur =  3   mean_ddc = 4.09731000  3sigma_ddc = 0.00373304
+coarse_search 0x8040004000040000 occur =  3   mean_ddc = 4.09710333  3sigma_ddc = 0.01312980
+coarse_search 0x0000020220000000 occur =  3   mean_ddc = 4.09695667  3sigma_ddc = 0.00657009
+coarse_search 0x0400010400400000 occur =  3   mean_ddc = 4.09692333  3sigma_ddc = 0.00569323
+coarse_search 0x0080820020000000 occur =  3   mean_ddc = 4.09692333  3sigma_ddc = 0.00593381
+coarse_search 0x0008001002000000 occur =  3   mean_ddc = 4.09674333  3sigma_ddc = 0.01049440
+coarse_search 0x8000104000040000 occur =  3   mean_ddc = 4.09673333  3sigma_ddc = 0.00976012
+coarse_search 0x0000010400400000 occur =  3   mean_ddc = 4.09666667  3sigma_ddc = 0.00590111
+coarse_search 0x0802080000000004 occur =  3   mean_ddc = 4.09649333  3sigma_ddc = 0.00129464
+coarse_search 0x2004000000004000 occur =  3   mean_ddc = 4.09618000  3sigma_ddc = 0.00568173
+coarse_search 0x0802000000000006 occur =  3   mean_ddc = 4.09612000  3sigma_ddc = 0.00595430
+coarse_search 0x0000104000020000 occur =  3   mean_ddc = 4.09569000  3sigma_ddc = 0.00340431
+coarse_search 0x0040104000040000 occur =  3   mean_ddc = 4.09568667  3sigma_ddc = 0.00216423
+coarse_search 0x0802002000000002 occur =  3   mean_ddc = 4.09557333  3sigma_ddc = 0.00582041
+coarse_search 0x0010040000000040 occur =  3   mean_ddc = 4.09533333  3sigma_ddc = 0.00118882
+coarse_search 0x0401010000200000 occur =  3   mean_ddc = 4.09529333  3sigma_ddc = 0.01235127
+coarse_search 0x0080020020000000 occur =  3   mean_ddc = 4.09527333  3sigma_ddc = 0.00716456
+coarse_search 0x0800080000000006 occur =  3   mean_ddc = 4.09488333  3sigma_ddc = 0.00416020
+coarse_search 0x0210000100000020 occur =  3   mean_ddc = 4.09481333  3sigma_ddc = 0.00258354
+coarse_search 0x0000800260000000 occur =  3   mean_ddc = 4.09480667  3sigma_ddc = 0.00237082
+coarse_search 0x0010000100000040 occur =  3   mean_ddc = 4.09461000  3sigma_ddc = 0.00494163
+coarse_search 0x0401000400400000 occur =  3   mean_ddc = 4.09454000  3sigma_ddc = 0.00685892
+coarse_search 0x0080000260000000 occur =  3   mean_ddc = 4.09428667  3sigma_ddc = 0.00331528
+coarse_search 0x0080800060000000 occur =  3   mean_ddc = 4.09399333  3sigma_ddc = 0.00387225
+coarse_search 0x0104000000002000 occur =  3   mean_ddc = 4.09398667  3sigma_ddc = 0.00568152
+coarse_search 0x0210000100000040 occur =  3   mean_ddc = 4.09363333  3sigma_ddc = 0.00526714
+coarse_search 0x1000200000000200 occur =  1   mean_ddc = 4.09348000  3sigma_ddc = 0.00000000
+coarse_search 0x0020200000000400 occur =  2   mean_ddc = 4.09340000  3sigma_ddc = 0.00466690
+coarse_search 0x0000820060000000 occur =  3   mean_ddc = 4.09329667  3sigma_ddc = 0.00351619
+coarse_search 0x0000010400200000 occur =  3   mean_ddc = 4.09325000  3sigma_ddc = 0.00427929
+coarse_search 0x0080020060000000 occur =  2   mean_ddc = 4.09313000  3sigma_ddc = 0.00398808
+coarse_search 0x2000008000002000 occur =  3   mean_ddc = 4.09301667  3sigma_ddc = 0.00432566
+coarse_search 0x1020000000000400 occur =  1   mean_ddc = 4.09277000  3sigma_ddc = 0.00000000
+coarse_search 0x0000820240000000 occur =  2   mean_ddc = 4.09233000  3sigma_ddc = 0.00407294
+coarse_search 0x0008001004000000 occur =  2   mean_ddc = 4.09232000  3sigma_ddc = 0.00042426
+coarse_search 0x4008001004000000 occur =  2   mean_ddc = 4.09220000  3sigma_ddc = 0.00114551
+coarse_search 0x4008400004000000 occur =  1   mean_ddc = 4.09214000  3sigma_ddc = 0.00000000
+coarse_search 0x0010040000000060 occur =  3   mean_ddc = 4.09212000  3sigma_ddc = 0.00403642
+coarse_search 0x0020000800000600 occur =  1   mean_ddc = 4.09125000  3sigma_ddc = 0.00000000
+coarse_search 0x1020000800000400 occur =  1   mean_ddc = 4.09098000  3sigma_ddc = 0.00000000

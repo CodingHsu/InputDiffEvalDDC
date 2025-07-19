@@ -1,0 +1,100 @@
+fine_search   0x4008000004000000 occur =  3   mean_bias = 0.12432667  3sigma_bias = 0.00004583  acc = 0.550  ± 1.15×10^-3
+fine_search   0x0010000100000060 occur =  3   mean_bias = 0.12354667  3sigma_bias = 0.00030348  acc = 0.541  ± 9.22×10^-4
+fine_search   0x4000000000000000 occur =  3   mean_bias = 0.12240333  3sigma_bias = 0.00018330  acc = 0.500  ± 2.00×10^-3
+fine_search   0x0020000800000400 occur =  3   mean_bias = 0.11941667  3sigma_bias = 0.00024062  acc = 0.551  ± 1.52×10^-3
+fine_search   0x0000002000000000 occur =  3   mean_bias = 0.11762333  3sigma_bias = 0.00015395  acc = 0.500  ± 7.17×10^-4
+fine_search   0x0400000000000000 occur =  3   mean_bias = 0.11738000  3sigma_bias = 0.00022650  acc = 0.500  ± 1.37×10^-3
+fine_search   0x2000000000000000 occur =  3   mean_bias = 0.11715000  3sigma_bias = 0.00018735  acc = 0.500  ± 1.08×10^-3
+fine_search   0x0000060000000000 occur =  3   mean_bias = 0.11496000  3sigma_bias = 0.00009000  acc = 0.500  ± 1.60×10^-3
+fine_search   0x0000000200000000 occur =  3   mean_bias = 0.11468000  3sigma_bias = 0.00031607  acc = 0.500  ± 2.32×10^-3
+fine_search   0x0200040100000020 occur =  3   mean_bias = 0.11457333  3sigma_bias = 0.00058198  acc = 0.540  ± 7.97×10^-4
+fine_search   0x0000401006000000 occur =  3   mean_bias = 0.11451000  3sigma_bias = 0.00030000
+fine_search   0x0000004000000000 occur =  3   mean_bias = 0.11153000  3sigma_bias = 0.00018248
+fine_search   0x4000401002000000 occur =  3   mean_bias = 0.11127000  3sigma_bias = 0.00013077
+fine_search   0x0000200000000000 occur =  3   mean_bias = 0.10955000  3sigma_bias = 0.00009000
+fine_search   0x0060000000000000 occur =  3   mean_bias = 0.10946667  3sigma_bias = 0.00034771
+fine_search   0x001a000000000000 occur =  3   mean_bias = 0.10848667  3sigma_bias = 0.00003464
+fine_search   0x0000400000000000 occur =  3   mean_bias = 0.10798333  3sigma_bias = 0.00026889
+fine_search   0x0000040000000000 occur =  3   mean_bias = 0.10743000  3sigma_bias = 0.00006000
+fine_search   0x0000020000000000 occur =  3   mean_bias = 0.10740000  3sigma_bias = 0.00023431
+fine_search   0x1000200800000400 occur =  3   mean_bias = 0.10737667  3sigma_bias = 0.00019975
+fine_search   0x6000000000000000 occur =  3   mean_bias = 0.10655000  3sigma_bias = 0.00021000
+fine_search   0x0001000400600000 occur =  3   mean_bias = 0.10607333  3sigma_bias = 0.00006245
+fine_search   0x0002082000000002 occur =  3   mean_bias = 0.10591000  3sigma_bias = 0.00040361
+fine_search   0x0004000000000000 occur =  3   mean_bias = 0.10544000  3sigma_bias = 0.00003000
+fine_search   0x0040000000000000 occur =  3   mean_bias = 0.10477667  3sigma_bias = 0.00011358
+fine_search   0x0000001a00000000 occur =  3   mean_bias = 0.10409333  3sigma_bias = 0.00024249
+fine_search   0x0401000000600000 occur =  3   mean_bias = 0.10397000  3sigma_bias = 0.00045000
+fine_search   0x0802080000000004 occur =  3   mean_bias = 0.10386667  3sigma_bias = 0.00018083
+fine_search   0x1020200000000200 occur =  3   mean_bias = 0.10384667  3sigma_bias = 0.00001732
+fine_search   0x0000020240000000 occur =  3   mean_bias = 0.10356000  3sigma_bias = 0.00023431
+fine_search   0x0000040100000040 occur =  3   mean_bias = 0.10346333  3sigma_bias = 0.00020421
+fine_search   0x0400010000200000 occur =  3   mean_bias = 0.10230667  3sigma_bias = 0.00010536
+fine_search   0x0040100000020000 occur =  3   mean_bias = 0.10200667  3sigma_bias = 0.00017578
+fine_search   0x8000004000020000 occur =  3   mean_bias = 0.10198000  3sigma_bias = 0.00040583
+fine_search   0x0020200000000600 occur =  3   mean_bias = 0.10160000  3sigma_bias = 0.00038301
+fine_search   0x1020000800000200 occur =  3   mean_bias = 0.10143667  3sigma_bias = 0.00030790
+fine_search   0x0020000000000000 occur =  3   mean_bias = 0.10137667  3sigma_bias = 0.00012490
+fine_search   0x0002000000000000 occur =  3   mean_bias = 0.10129333  3sigma_bias = 0.00024249
+fine_search   0x0600000000000000 occur =  3   mean_bias = 0.10118667  3sigma_bias = 0.00006245
+fine_search   0x0000006000000000 occur =  3   mean_bias = 0.10068333  3sigma_bias = 0.00003464
+fine_search   0x0008400004000000 occur =  3   mean_bias = 0.10062667  3sigma_bias = 0.00043715
+fine_search   0x0000000600000000 occur =  3   mean_bias = 0.10061000  3sigma_bias = 0.00010392
+fine_search   0x0800002000000002 occur =  3   mean_bias = 0.10050000  3sigma_bias = 0.00039230
+fine_search   0x0000820020000000 occur =  3   mean_bias = 0.10032333  3sigma_bias = 0.00083803
+fine_search   0x0100008000006000 occur =  3   mean_bias = 0.09991667  3sigma_bias = 0.00025865
+fine_search   0x0008001002000000 occur =  3   mean_bias = 0.09988333  3sigma_bias = 0.00021703
+fine_search   0x0000600000000000 occur =  3   mean_bias = 0.09985000  3sigma_bias = 0.00016703
+fine_search   0x0802002000000002 occur =  3   mean_bias = 0.09978667  3sigma_bias = 0.00037510
+fine_search   0x0200000000000000 occur =  3   mean_bias = 0.09970667  3sigma_bias = 0.00013528
+fine_search   0x0100008000004000 occur =  3   mean_bias = 0.09964667  3sigma_bias = 0.00019975
+fine_search   0x0004008000002000 occur =  3   mean_bias = 0.09963000  3sigma_bias = 0.00013748
+fine_search   0x0001010400200000 occur =  3   mean_bias = 0.09960333  3sigma_bias = 0.00027055
+fine_search   0x0000800220000000 occur =  3   mean_bias = 0.09959333  3sigma_bias = 0.00033045
+fine_search   0x4008400004000000 occur =  3   mean_bias = 0.09948333  3sigma_bias = 0.00039038
+fine_search   0x0006000000000000 occur =  3   mean_bias = 0.09907000  3sigma_bias = 0.00006000
+fine_search   0x0054000000000000 occur =  3   mean_bias = 0.09897667  3sigma_bias = 0.00017578
+fine_search   0x0000200800000600 occur =  3   mean_bias = 0.09817333  3sigma_bias = 0.00026889
+fine_search   0x0210040000000040 occur =  3   mean_bias = 0.09705667  3sigma_bias = 0.00013528
+fine_search   0x0000005400000000 occur =  3   mean_bias = 0.09685333  3sigma_bias = 0.00009644
+fine_search   0x1c00000000000000 occur =  3   mean_bias = 0.09676000  3sigma_bias = 0.00015875
+fine_search   0x0200000100000020 occur =  3   mean_bias = 0.09664000  3sigma_bias = 0.00000000
+fine_search   0x0000034000000000 occur =  3   mean_bias = 0.09641333  3sigma_bias = 0.00009165
+fine_search   0x0000004c00000000 occur =  3   mean_bias = 0.09593000  3sigma_bias = 0.00006000
+fine_search   0x0004008000004000 occur =  3   mean_bias = 0.09586333  3sigma_bias = 0.00022716
+fine_search   0x0000004a00000000 occur =  3   mean_bias = 0.09554667  3sigma_bias = 0.00015395
+fine_search   0x1a00000000000000 occur =  3   mean_bias = 0.09538667  3sigma_bias = 0.00024434
+fine_search   0x8000100000040000 occur =  3   mean_bias = 0.09527667  3sigma_bias = 0.00006245
+fine_search   0x0000082000000006 occur =  3   mean_bias = 0.09523333  3sigma_bias = 0.00030790
+fine_search   0x0000040100000020 occur =  3   mean_bias = 0.09514000  3sigma_bias = 0.00042532
+fine_search   0x0000007400000000 occur =  3   mean_bias = 0.09484000  3sigma_bias = 0.00003000
+fine_search   0x0000001800000000 occur =  3   mean_bias = 0.09473000  3sigma_bias = 0.00010392
+fine_search   0x0000054000000000 occur =  3   mean_bias = 0.09467000  3sigma_bias = 0.00007937
+fine_search   0x0000003a00000000 occur =  3   mean_bias = 0.09458000  3sigma_bias = 0.00010817
+fine_search   0x0004008000006000 occur =  3   mean_bias = 0.09454333  3sigma_bias = 0.00013528
+fine_search   0x4008000002000000 occur =  3   mean_bias = 0.09439000  3sigma_bias = 0.00005196
+fine_search   0x2000008000006000 occur =  3   mean_bias = 0.09424667  3sigma_bias = 0.00034117
+fine_search   0x8000100000060000 occur =  3   mean_bias = 0.09421000  3sigma_bias = 0.00028618
+fine_search   0x0001010400400000 occur =  3   mean_bias = 0.09420333  3sigma_bias = 0.00010536
+fine_search   0x0000820220000000 occur =  3   mean_bias = 0.09403000  3sigma_bias = 0.00013077
+fine_search   0x0401010000200000 occur =  3   mean_bias = 0.09354667  3sigma_bias = 0.00009165
+fine_search   0x0802000000000002 occur =  3   mean_bias = 0.09344333  3sigma_bias = 0.00017578
+fine_search   0x1020000000000200 occur =  3   mean_bias = 0.09338667  3sigma_bias = 0.00027221
+fine_search   0x0340000000000000 occur =  3   mean_bias = 0.09336000  3sigma_bias = 0.00026153
+fine_search   0x0080800060000000 occur =  3   mean_bias = 0.09300667  3sigma_bias = 0.00022113
+fine_search   0x0080020240000000 occur =  3   mean_bias = 0.09290333  3sigma_bias = 0.00037510
+fine_search   0x2004008000002000 occur =  3   mean_bias = 0.09267333  3sigma_bias = 0.00036166
+fine_search   0x0034000000000000 occur =  3   mean_bias = 0.09252667  3sigma_bias = 0.00017578
+fine_search   0x0400000400400000 occur =  3   mean_bias = 0.09181000  3sigma_bias = 0.00013077
+fine_search   0x0000000400000000 occur =  3   mean_bias = 0.09153333  3sigma_bias = 0.00009165
+fine_search   0x8000104000040000 occur =  3   mean_bias = 0.09134333  3sigma_bias = 0.00022113
+fine_search   0x0210040000000020 occur =  3   mean_bias = 0.09122000  3sigma_bias = 0.00007937
+fine_search   0x0104000000002000 occur =  3   mean_bias = 0.09102333  3sigma_bias = 0.00011358
+fine_search   0x0800080000000004 occur =  3   mean_bias = 0.09087000  3sigma_bias = 0.00021000
+fine_search   0x0002002000000006 occur =  3   mean_bias = 0.09078333  3sigma_bias = 0.00019519
+fine_search   0x8040100000040000 occur =  3   mean_bias = 0.09058667  3sigma_bias = 0.00030790
+fine_search   0x0040104000040000 occur =  3   mean_bias = 0.09055000  3sigma_bias = 0.00013077
+fine_search   0x0000820040000000 occur =  3   mean_bias = 0.09026333  3sigma_bias = 0.00031225
+fine_search   0x0360000000000000 occur =  3   mean_bias = 0.09024000  3sigma_bias = 0.00007937
+fine_search   0x0080800220000000 occur =  3   mean_bias = 0.09023000  3sigma_bias = 0.00023812
+fine_search   0x2000008000002000 occur =  3   mean_bias = 0.09004000  3sigma_bias = 0.00026153

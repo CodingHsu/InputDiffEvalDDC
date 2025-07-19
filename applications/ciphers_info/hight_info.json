@@ -1,0 +1,1 @@
+{"data_type": "uint8", "plaintext_size": 64, "ciphertext_size": 64, "master_key_size": 128, "round_key_size": 32, "encrypt_rounds": 32, "cipher_name": "hight", "original_filename": "hight.dll", "upload_type": "dll", "saved_path": "..\\saved_dlls\\hight.dll"}

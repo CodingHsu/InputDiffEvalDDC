@@ -1,0 +1,16 @@
+[00] diff=('0x51b7', '0x2c') | bias 0.673s | entropy 1.034s
+[01] diff=('0x9c61', '0xefaf') | bias 0.671s | entropy 1.036s
+[02] diff=('0xaa4e', '0xd118') | bias 0.670s | entropy 1.024s
+[03] diff=('0x95af', '0x4f2a') | bias 0.671s | entropy 1.025s
+[04] diff=('0xc207', '0x66ea') | bias 0.676s | entropy 1.024s
+[05] diff=('0x1085', '0x26e9') | bias 0.674s | entropy 1.028s
+[06] diff=('0xd883', '0x4a71') | bias 0.674s | entropy 1.038s
+[07] diff=('0xe30c', '0x9e6') | bias 0.670s | entropy 1.024s
+[08] diff=('0x2a7', '0x8847') | bias 0.672s | entropy 1.025s
+[09] diff=('0xead5', '0x896d') | bias 0.679s | entropy 1.026s
+
+=== Summary ===
+bias_score  : avg 0.673s  ± 0.003
+entropy     : avg 1.028s  ± 0.005
+
+Process finished with exit code 0
