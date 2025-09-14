@@ -31,7 +31,7 @@ bs = 5000
 
 
 def make_predict_net(model, num_outputs=12, ds=[64, 64], reg_param=10**-5, final_activation='sigmoid'):
-    # 冻结 model 的所有层
+    # Freeze all layers of the model
     for layer in model.layers:
         layer.trainable = False
     model = Model(inputs=model.input, outputs=model.layers[-8].output)

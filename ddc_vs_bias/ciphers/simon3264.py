@@ -154,3 +154,20 @@ def cacl_ddc(n, nr, diff=(0,0)):
     entropy_value = np.sum(entr(probabilities))
     
     return np.log2(n) - entropy_value
+
+def make_train_data_with_two_diffs(n, nr, diff0=(0,0), diff1=(0,0)):
+    Y = np.frombuffer(urandom(n), dtype=np.uint8)
+    Y = Y & 1
+    keys = np.frombuffer(urandom(8*n),dtype=np.uint16).reshape(4,-1)
+    plain0l = np.frombuffer(urandom(2*n),dtype=np.uint16)
+    plain0r = np.frombuffer(urandom(2*n),dtype=np.uint16)
+    plain1l = plain0l ^ diff0[0]
+    plain1r = plain0r ^ diff0[1]
+    num_rand_samples = np.sum(Y==1)
+    plain1l[Y==1] = plain1l[Y==1] ^ diff1[0]
+    plain1r[Y==1] = plain1r[Y==1] ^ diff1[1]
+    ks = expand_key(keys, nr)
+    ctdata0l, ctdata0r = encrypt((plain0l, plain0r), ks)
+    ctdata1l, ctdata1r = encrypt((plain1l, plain1r), ks)
+    X = convert_to_binary([ctdata0l, ctdata0r, ctdata1l, ctdata1r])
+    return X, Y
