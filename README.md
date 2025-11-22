@@ -3,7 +3,7 @@
 This repository contains the code and resources accompanying the paper:
 
 **"A Novel Evaluation Algorithm for Identifying Optimal Datasets in Differential‑based Neural Distinguisher"**
-*IEEE Transactions on Information Forensics and Security*, Vol. XX, No. XX, 20XX
+*IEEE Transactions on Information Forensics and Security*, Vol. 20, Pages 12328-12341, 2025
 **Haiyi Xu, Lei Zhang, Yufei Yuan**
 
 ---
@@ -57,13 +57,14 @@ Ensure your environment has a compatible GPU with the corresponding CUDA/cuDNN v
 If you use this code or results in your research, please cite:
 
 ```bibtex
-@article{xu2025optimal,
+@article{XZY25,
   title={A Novel Evaluation Algorithm for Identifying Optimal Datasets in Differential‑based Neural Distinguisher},
   author={Haiyi Xu and Lei Zhang and Yufei Yuan},
   journal={IEEE Transactions on Information Forensics and Security},
-  volume={XX},
-  number={XX},
-  year={2025}
+  volume={20},
+  pages={12328-12341},
+  year={2025},
+  doi={10.1109/TIFS.2025.3629547}
 }
 ```
 
